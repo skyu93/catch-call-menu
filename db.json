@@ -1,19 +1,24 @@
 {
  "data": {
-  "col": 1,
-  "row": 1,
   "menus": [
-    { "name": "족발(대)", "amount": 30000 },
-    { "name": "족발(중)", "amount": 26000 },
-    { "name": "냉채족발", "amount": 34000 },
-    { "name": "막국수", "amount": 10000 },
-    { "name": "무포장추가", "amount": 1000 },
-    { "name": "해물부추전", "amount": 10000 },
-    { "name": "된장국", "amount": 1000 },
-    { "name": "어리굴젓", "amount": 6000 },
-    { "name": "부추포장", "amount": 1000 },
-    { "name": "상추포장", "amount": 1000 },
-    { "name": "뼈 X", "amount": 0 }
-  ]
+     [
+      { "name": "족발(대)", "amount": 30000 },
+      { "name": "족발(중)", "amount": 26000 },
+      { "name": "냉채족발", "amount": 34000 },
+      { "name": "막국수", "amount": 10000 }
+     ],
+     [
+      { "name": "무포장추가", "amount": 1000 },
+      { "name": "해물부추전", "amount": 10000 },
+      { "name": "된장국", "amount": 1000 },
+      { "name": "어리굴젓", "amount": 6000 }
+     ],
+     [
+      { "name": "부추포장", "amount": 1000 },  
+      { "name": "상추포장", "amount": 1000 },
+      { "name": "뼈 X", "amount": 0 }
+     ],
+     []
+   ]
  }
 }
