@@ -2,9 +2,9 @@
  "data": {
   "menus": [
      [
-      { "name": "족발(대)", "amount": 30000 },
-      { "name": "족발(중)", "amount": 26000 },
-      { "name": "냉채족발", "amount": 34000 }
+      { "name": "족발(대)", "amount": 37000 },
+      { "name": "족발(중)", "amount": 32000 },
+      { "name": "냉채족발", "amount": 36000 }
      ],
      [
       { "name": "막국수", "amount": 10000 },
